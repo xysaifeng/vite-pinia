@@ -1,0 +1,2 @@
+# vite-pinia
+pinia study
